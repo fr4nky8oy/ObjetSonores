@@ -2,6 +2,8 @@
 
 Francesco Redente’s BA research project.
 
+![img](https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xal1/t31.0-8/12363251_10153863738094052_4711005931664473206_o.jpg)
+
 ## Setup
 
 ###Requirements
